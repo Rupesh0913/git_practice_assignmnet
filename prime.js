@@ -9,7 +9,7 @@
    }
    else
         for(let i=2;i<=num/2;i++)
-        if(i%num==0){
+        if(num%i==0){
             count++;
             break;
         }

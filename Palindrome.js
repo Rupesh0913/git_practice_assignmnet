@@ -5,7 +5,7 @@
   
   for(let i=0;i<N/2;i++)
   {
-      if(str[i]==str[N-i])
+      if(str[i]==str[N-i-1])
       continue;
       else
       {
